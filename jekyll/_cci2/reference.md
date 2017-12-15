@@ -13,7 +13,6 @@ Document | Description
 <a href="{{ site.baseurl }}/api/v1-reference/">API</a> | CircleCI v1.1 API reference documentation.
 <a href="{{ site.baseurl }}/2.0/glossary/">Glossary</a> | CircleCI terms and definitions.
 <a href="{{ site.baseurl }}/2.0/help-and-support/">Help and Support</a> | How to get answers to your questions from the CircleCI developer community and the CircleCI support team.
-<a href="{{ site.baseurl }}/2.0/faq/">FAQ</a> | Frequently asked questions about CircleCI 2.0.
 <a href="{{ site.baseurl }}/2.0/gh-bb-integration/">GitHub and Bitbucket Integration</a> | Information about GitHub and Bitbucket integration with a summary of permissions required and how organizations and groups work.
 <a href="{{ site.baseurl }}/2.0/security/">Security Features</a> | Description of source code, container, and encryption technology used by CircleCI.
 <a href="https://circleci.com/changelog">Changelog</a> | Log of recent changes to the hosted CircleCI 2.0 software.
